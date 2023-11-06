@@ -3,9 +3,11 @@
 
 ## 실행 화면
 ![스크린샷 2023-11-06 161727](https://github.com/CommercialCrew/max001/assets/101386134/be3ea3fe-3a69-4b10-a88d-b1362b4cf303)
+
 먼저 숫자 배열에 수를 집어넣는다. rand() 등으로 무작위로 넣어도 되지만 이번엔 일일이 집어넣었다.
 
 ![스크린샷 2023-11-06 161744](https://github.com/CommercialCrew/max001/assets/101386134/ed8b40df-36d1-4132-ab8d-cd140de6705c)
+
 프로그램 실행 후 화면. 메뉴에 'Find Minimum'을 만들고 그 메뉴를 선택하면 배열의 최소값을 표시하게 했다.
 첫 번째 사진에서 알 수 있듯 배열의 최소값은 5이다.
 
